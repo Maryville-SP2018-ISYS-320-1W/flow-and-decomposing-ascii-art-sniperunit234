@@ -23,10 +23,11 @@ public class Tricky {
 	        message1();
 	        System.out.println("Done with message 2.");
 	    }
-	}
+}
+	    
 
 // 3. Were you correct? Explain any differences
-I was incorrect with my perdiction, i was message1, then message2, then message1, done with main then done with message 2
+/* I was incorrect with my perdiction, i was message1, then message2, then message1, done with main then done with message 2 */
 
  
 
